@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bible-books/static/css/main.050779fc.css",
+    "main.js": "/bible-books/static/js/main.076306fe.js",
+    "index.html": "/bible-books/index.html",
+    "main.050779fc.css.map": "/bible-books/static/css/main.050779fc.css.map",
+    "main.076306fe.js.map": "/bible-books/static/js/main.076306fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050779fc.css",
+    "static/js/main.076306fe.js"
+  ]
+}
